@@ -1,3 +1,6 @@
+/*added comment from repository 1(machine 1)*/
+
+
 #include<stdio.h>
 
 int main(){
@@ -9,3 +12,4 @@ printf("Working on a new feature\n");
 return 0;
 
 }
+
