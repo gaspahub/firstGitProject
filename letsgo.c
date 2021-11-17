@@ -3,7 +3,7 @@
 
 #include<stdio.h>
 
-int main(){
+int main(){//another comment from repository 2(machine 2)
 
 printf("Git, let's go!!\n");
 printf("Added line 1\n");
